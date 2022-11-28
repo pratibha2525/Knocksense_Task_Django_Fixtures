@@ -1,0 +1,23 @@
+[
+    {
+        "model": "myapp.userRole",
+        "pk": 1,
+        "fields": {
+            "user_role": "User"
+        }
+    },
+    {
+        "model": "myapp.userRole",
+        "pk": 2,
+        "fields": {
+            "user_role": "Admin"
+        }
+    },
+    {
+        "model": "myapp.userRole",
+        "pk": 3,
+        "fields": {
+            "user_role": "vendor"
+        }
+    }
+]
